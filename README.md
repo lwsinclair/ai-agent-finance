@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/simaraconceicao-ai-agent-finance-badge.png)](https://mseep.ai/app/simaraconceicao-ai-agent-finance)
+
 
 # Gerenciador Financeiro Pessoal com Agente de IA 
 
